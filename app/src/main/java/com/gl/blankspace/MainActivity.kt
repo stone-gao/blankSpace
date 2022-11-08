@@ -32,7 +32,8 @@ class MainActivity : AppCompatActivity() {
     private var wsManager: WsManager? = null;
     private var rotate = 0f;
     private val pathList: ArrayList<Coordinate> = ArrayList()
-    private val isOperation = false;
+    private val isOperation = true;
+    private val url = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -226,7 +227,7 @@ class MainActivity : AppCompatActivity() {
                     .build()
             )
             .needReconnect(true)
-            .wsUrl("ws://xuanyun.chaidog.cn:8992/open/6")
+            .wsUrl(url)
             .build();
         wsManager!!.setWsStatusListener(object : WsStatusListener() {
             override fun onOpen(response: Response?) {
