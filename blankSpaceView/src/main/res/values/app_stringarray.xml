@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="sync_color">
+        <item>#ff0000</item>
+        <item>#ff8000</item>
+        <item>#00ff00</item>
+        <item>#0000ff</item>
+        <item>#ffff00</item>
+        <item>#000000</item>
+    </string-array>
+    <string-array name="sync_size">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+</resources>
