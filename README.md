@@ -9,6 +9,13 @@
 - 旋转可自定义角度
 - 可禁用白板功能
 - 补充说明 demo中通过 webScoket 实现互动功能
+# 功能展示
+![1](https://user-images.githubusercontent.com/12062777/200495114-716c2c77-58e3-46b8-a23b-77bbc2db7e7c.png)
+
+![rbp2b-rwxz2](https://user-images.githubusercontent.com/12062777/200495406-c09e6ebb-a84e-41c2-a4ea-2a36734f8c9f.gif)
+
+![y9lz4-vgjmz](https://user-images.githubusercontent.com/12062777/200495442-fb713a9f-ec97-464f-8d94-c1edf6f70d8d.gif)
+
 # 集成步骤
 ## 如果你的项目 Gradle 配置是在 7.0 以下，需要在 build.gradle 文件中加入
 ```
