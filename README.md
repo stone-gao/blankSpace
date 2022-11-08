@@ -8,7 +8,7 @@
 - 清空画笔操作
 - 旋转可自定义角度
 - 可禁用白板功能
-- 补充说明 demo中通过 webScoket 实现互动功能
+- 补充说明 demo中通过 WebSocket 实现互动功能 (WebSocket 请自行部署)
 # 功能展示
 ![tu](https://user-images.githubusercontent.com/12062777/200496004-f4c855ae-e71b-4d9e-ba63-295e8fe5effc.png)
 
