@@ -38,3 +38,15 @@ dependencyResolutionManagement {
 	        implementation 'com.github.stone-gao:blankSpace:1.0.0'
 	}
 ```
+# 使用
+```
+	 <com.gl.blankspaceview.widget.BlankPhotoView
+                android:id="@+id/photoView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:src="@mipmap/test" />
+```
+
