@@ -49,4 +49,6 @@ dependencyResolutionManagement {
                 android:scaleType="fitCenter"
                 android:src="@mipmap/test" />
 ```
+# 方法使用
+ 详见demo
 
